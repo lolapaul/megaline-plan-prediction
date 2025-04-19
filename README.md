@@ -1,16 +1,16 @@
-# 📱 Megaline Plan Prediction
+#  Megaline Plan Prediction
 
 A classification project to help Megaline, a mobile service provider, recommend the most suitable plan (Smart or Ultra) to its customers based on monthly behavior. The project uses supervised learning techniques to predict plan selection and optimize accuracy.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Build a predictive model to determine whether a customer is more likely to use the **Ultra** (1) or **Smart** (0) plan, based on their mobile usage behavior.
 
 ---
 
-## 📊 Dataset Description
+##  Dataset Description
 
 The dataset contains monthly user activity data:
 
@@ -22,7 +22,7 @@ The dataset contains monthly user activity data:
 
 ---
 
-## 🔍 Project Workflow
+##  Project Workflow
 
 1. **Data Preprocessing**
    - Load and explore dataset
@@ -43,7 +43,7 @@ The dataset contains monthly user activity data:
 
 ---
 
-## 📊 Key Questions Answered
+##  Key Questions Answered
 
 - Can we predict a user’s plan preference from usage behavior?
 - Which classification model performs best for this task?
@@ -51,7 +51,7 @@ The dataset contains monthly user activity data:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 megaline-plan-prediction/
@@ -64,7 +64,7 @@ megaline-plan-prediction/
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python
 - pandas
@@ -73,7 +73,7 @@ megaline-plan-prediction/
 
 ---
 
-## ✅ Status
+##  Status
 
 ✔️ Project completed as part of the **TripleTen Bootcamp** – Sprint: *Binary Classification Models*
 
